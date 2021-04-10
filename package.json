@@ -12,14 +12,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TheBusyBiscuit/builds.git"
+        "url": "git+https://github.com/TreasureIslandMC/builds/.git"
     },
     "author": "TheBusyBiscuit",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/TheBusyBiscuit/builds/issues"
+        "url": "https://github.com/TreasureIslandMC/builds/issues"
     },
-    "homepage": "https://github.com/TheBusyBiscuit/builds#readme",
+    "homepage": "https://github.com/TreasureIslandMC/builds/#readme",
     "dependencies": {
         "child-process-promise": "^2.2.1",
         "discord.js": "^11.5.1",
