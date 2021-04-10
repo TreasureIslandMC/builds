@@ -6,12 +6,12 @@ module.exports = (assert, github) => {
 
         testJobs(false, (job) => github.getLatestCommit(job));
 
-        it("should resolve for 'TheBusyBiscuit/builds:gh-pages'", () => {
+        it("should resolve for 'TreasureIslandMC/builds:gh-pages'", () => {
             var job = {
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "builds",
                 branch: "gh-pages",
-				directory: "TheBusyBiscuit/builds/gh-pages"
+				directory: "TreasureIslandMC/builds/gh-pages"
             }
 
             return github.getLatestCommit(job).then((commit) => Promise.all([
@@ -26,9 +26,9 @@ module.exports = (assert, github) => {
             ]));
         });
 
-        it("should reject for 'TheBusyBiscuit/builds:nope' (Invalid branch)", () => {
+        it("should reject for 'TreasureIslandMC/builds:nope' (Invalid branch)", () => {
             var job = {
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "builds",
                 branch: "nope"
             }
@@ -36,9 +36,9 @@ module.exports = (assert, github) => {
             return assert.isRejected(github.getLatestCommit(job));
         });
 
-        it("should reject for 'TheBusyBiscuit/____:master' (Not-existing Repository)", () => {
+        it("should reject for 'TreasureIslandMC/____:master' (Not-existing Repository)", () => {
             var job = {
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "____",
                 branch: "master"
             }

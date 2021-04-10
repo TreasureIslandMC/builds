@@ -31,7 +31,7 @@ describe("Discord Integration Test", () => {
             author: "TheBusyBiscuit",
             repo: "builds",
             branch: "gh-pages",
-			directory: "TheBusyBiscuit/builds/gh-pages",
+			directory: "TreasureIslandMC/builds/gh-pages",
             id: -1,
             success: true
         }))
@@ -41,10 +41,10 @@ describe("Discord Integration Test", () => {
         var mock_discord = require('../src/discord.js')();
 
         return assert.isFulfilled(mock_discord.sendUpdate({
-            author: "TheBusyBiscuit",
+            author: "TreasureIslandMC",
             repo: "builds",
             branch: "gh-pages",
-			directory: "TheBusyBiscuit/builds/gh-pages",
+			directory: "TreasureIslandMC/builds/gh-pages",
             id: -1,
             success: false
         }))
@@ -62,7 +62,7 @@ describe("Discord Integration Test", () => {
             author: "TheBusyBiscuit",
             repo: "builds",
             branch: "gh-pages",
-			directory: "TheBusyBiscuit/builds/gh-pages",
+			directory: "TreasureIslandMC/builds/gh-pages",
             id: -1,
             success: false
         }))

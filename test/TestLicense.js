@@ -6,12 +6,12 @@ module.exports = (assert, github) => {
 
         testJobs(false, (job) => github.getLicense(job));
 
-        it("should resolve for 'TheBusyBiscuit/builds'", () => {
+        it("should resolve for 'TreasureIslandMC/builds'", () => {
             var job = {
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "builds",
                 branch: "gh-pages",
-				directory: "TheBusyBiscuit/builds/gh-pages"
+				directory: "TreasureIslandMC/builds/gh-pages"
             }
 
             return github.getLicense(job).then((license) => Promise.all([
@@ -26,9 +26,9 @@ module.exports = (assert, github) => {
             ]));
         });
 
-        it("should reject for 'TheBusyBiscuit/____' (Not-existing Repository)", () => {
+        it("should reject for 'TreasureIslandMC/____' (Not-existing Repository)", () => {
             var job = {
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "____",
                 branch: "master"
             }

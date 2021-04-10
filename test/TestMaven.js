@@ -10,7 +10,7 @@ describe("Maven Test", () => {
 
     it("should do nothing but resolve when relocating a failed Job", () =>
         assert.isFulfilled(maven.relocate({
-            author: "TheBusyBiscuit",
+            author: "TreasureIslandMC",
             repo: "builds",
             branch: "master",
             id: 1,
@@ -35,7 +35,7 @@ describe("Maven Test", () => {
         it("should create a compact pom.xml (pom.xml partially incomplete)", async () => {
             var json = await XML.promises.fromXML("<project><version>1.0</version><build></build></project>");
             return maven.updatePOM({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC,
                 repo: "Test",
                 branch: "master",
                 id: 1,
@@ -48,7 +48,7 @@ describe("Maven Test", () => {
         it("should create a beautified pom.xml", async () => {
             var json = await XML.promises.fromXML("<project><version>1.0</version><build></build></project>");
             return assert.isFulfilled(maven.updatePOM({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
@@ -60,7 +60,7 @@ describe("Maven Test", () => {
     describe("Command Line Arguments", () => {
         it("should return args without sonar (sonar is disabled in config)", () => {
             return assert.notInclude(maven.getMavenArguments({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
@@ -78,7 +78,7 @@ describe("Maven Test", () => {
 
         it("should return args without sonar (sonar is disabled for this job)", () => {
             return assert.notInclude(maven.getMavenArguments({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
@@ -96,7 +96,7 @@ describe("Maven Test", () => {
 
         it("should return args without sonar (sonar is missing for this job)", () => {
             return assert.notInclude(maven.getMavenArguments({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
@@ -111,7 +111,7 @@ describe("Maven Test", () => {
 
         it("should return args with sonar (sonar is enabled, etc...)", () => {
             return assert.include(maven.getMavenArguments({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
