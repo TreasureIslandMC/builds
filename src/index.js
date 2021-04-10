@@ -1,5 +1,5 @@
 $(function() {
-    $.getJSON("https://thebusybiscuit.github.io/builds/resources/repos.json", repos => {
+    $.getJSON("https://treasureislandmc.github.io/builds/resources/repos.json", repos => {
         $("#repos").html("");
         let profiles = [];
 
@@ -65,7 +65,7 @@ function addRepository(table, directory, owner, repo, branch, projectType) {
                 <a class="link_info" href="${directory}">${repo} (${branch})${projectType == 'abandoned' ? " [abandoned]" : ""}</a>
             </td>
             <td>
-                <img style="float: right;" alt="project badge" src="https://thebusybiscuit.github.io/builds/${directory}/badge.svg" />
+                <img style="float: right;" alt="project badge" src="https://treasureislandmc.github.io/builds/${directory}/badge.svg" />
             </td>
         </tr>
     `);

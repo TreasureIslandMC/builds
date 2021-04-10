@@ -4,7 +4,7 @@ $(() => {
     let repository = body.attr("repository");
     let branch = body.attr("branch");
 
-    $.getJSON("https://thebusybiscuit.github.io/builds/resources/repos.json", repos => {
+    $.getJSON("https://treasureislandmc.github.io/builds/repos.json", repos => {
         let info = repos[`${owner}/${repository}:${branch}`];
         let directory = `${owner}/${repository}/${branch}`;
 
@@ -132,7 +132,7 @@ $(() => {
             }
         }
 
-        $.getJSON(`https://thebusybiscuit.github.io/builds/${directory}/builds.json`, builds => {
+        $.getJSON(`https://treasureislandmc.github.io/builds/${directory}/builds.json`, builds => {
             let last_successful = builds.last_successful;
 
             // Get currently selected Build
@@ -221,9 +221,9 @@ function createBadge(directory, language) {
     var url = "";
 
     if (language === "markdown") {
-        url = `[![Build Status](https://thebusybiscuit.github.io/builds/${directory}/badge.svg)](https://thebusybiscuit.github.io/builds/${directory})`;
+        url = `[![Build Status](https://treasureislandmc.github.io/builds/${directory}/badge.svg)](https://treasureislandmc.github.io/builds/${directory})`;
     } else if (language === "html") {
-        url = `<a href="https://thebusybiscuit.github.io/builds/${directory}"><img src="https://thebusybiscuit.github.io/builds/${directory}/badge.svg" alt="Build Status"/></a>`;
+        url = `<a href="https://treasureislandmc.github.io/builds/${directory}"><img src="https://treasureislandmc.github.io/builds/${directory}/badge.svg" alt="Build Status"/></a>`;
     }
 
     $("#badge_" + language).attr("value", url);
