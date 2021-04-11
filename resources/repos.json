@@ -1,16 +1,16 @@
 {
-    "sarhatabaot/BetterBanner:master": {
+    "sarhatabaot/ChunkSpawnerLimiter:master": {
         "sonar": {
             "enabled": false
         },
         "options": {
             "prefix": "DEV",
-            "abandoned": true,
+            "abandoned": false,
             "createJar": true
         },
         "dependencies": {
             "Minecraft Version(s)": {
-                "1": "1.13.x"
+                "1": "1.13.x, 1.14.x, 1.15.x, 1.16.x"
             }
         }
     },
