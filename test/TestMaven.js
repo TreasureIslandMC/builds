@@ -22,7 +22,7 @@ describe("Maven Test", () => {
         it("should create a compact pom.xml (pom.xml structure complete)", async () => {
             var json = await XML.promises.fromXML("<project><version>1.0</version><build><finalName>Project v1.0</finalName></build></project>");
             return maven.updatePOM({
-                author: "TheBusyBiscuit",
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
@@ -35,7 +35,7 @@ describe("Maven Test", () => {
         it("should create a compact pom.xml (pom.xml partially incomplete)", async () => {
             var json = await XML.promises.fromXML("<project><version>1.0</version><build></build></project>");
             return maven.updatePOM({
-                author: "TreasureIslandMC,
+                author: "TreasureIslandMC",
                 repo: "Test",
                 branch: "master",
                 id: 1,
