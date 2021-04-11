@@ -73,7 +73,7 @@ function sendUpdate (webhook, job, cfg) {
       .replace(/<id>/g, job.id)
 
     // Sendm it via our webhook
-    webhook.send(new Discord.RichEmbed()
+    webhook.send(new Discord.MessageEmbed()
       .setTitle(job.author + '/' + job.repo + ':' + job.branch + ' ( #' + job.id + ' )')
       .setColor(job.success ? 0X00FF00 : 0XFF0000)
       .setDescription(message)
