@@ -14,7 +14,7 @@
             }
         }
     },
-    "TreasureIslandMC/XenTradingCards:master": {
+    "TreasureIslandMC/TradingCards:master": {
         "sonar": {
             "enabled": false
         },
