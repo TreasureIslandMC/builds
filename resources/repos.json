@@ -5,8 +5,8 @@
         },
         "options": {
             "prefix": "DEV",
-            "abandoned": false,
-            "createJar": true
+            "abandoned": true,
+            "createJar": false
         },
         "dependencies": {
             "Minecraft Version(s)": {
