@@ -1,0 +1,185 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< com.github.sarhatabaot:TCMythicMobs >-----------------
+[INFO] Building TCMythicMobs DEV - 1 (git f63b715a)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml (1.5 kB at 908 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/paper-api-1.16.5-R0.1-20210412.180046-169.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/paper-api-1.16.5-R0.1-20210412.180046-169.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-parent/dev-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-parent/dev-SNAPSHOT/maven-metadata.xml (610 B at 2.1 kB/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-parent/dev-SNAPSHOT/paper-parent-dev-20200427.054227-11.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-parent/dev-SNAPSHOT/paper-parent-dev-20200427.054227-11.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-bom/4.7.0/adventure-bom-4.7.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-bom/4.7.0/adventure-bom-4.7.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-api/4.7.0/adventure-api-4.7.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-api/4.7.0/adventure-api-4.7.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-key/4.7.0/adventure-key-4.7.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-key/4.7.0/adventure-key-4.7.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/checkerframework/checker-qual/3.10.0/checker-qual-3.10.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/checkerframework/checker-qual/3.11.0/checker-qual-3.11.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/checkerframework/checker-qual/3.11.0/checker-qual-3.11.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/jetbrains/annotations/20.1.0/annotations-20.1.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/jetbrains/annotations/20.1.0/annotations-20.1.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.7.0/adventure-text-serializer-gson-4.7.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.7.0/adventure-text-serializer-gson-4.7.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/sonatype/oss/oss-parent/7/oss-parent-7.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.7.0/adventure-text-serializer-legacy-4.7.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.7.0/adventure-text-serializer-legacy-4.7.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-plain/4.7.0/adventure-text-serializer-plain-4.7.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-plain/4.7.0/adventure-text-serializer-plain-4.7.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/commons-lang/commons-lang/2.6/commons-lang-2.6.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/apache/commons/commons-parent/17/commons-parent-17.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/apache/commons/commons-parent/17/commons-parent-17.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/apache/apache/7/apache-7.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/apache/apache/7/apache-7.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/junit/junit/4.10/junit-4.10.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/junit/junit/4.10/junit-4.10.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/guava/guava/21.0/guava-21.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/guava/guava/21.0/guava-21.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/guava/guava-parent/21.0/guava-parent-21.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/guava/guava-parent/21.0/guava-parent-21.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/md-5/bungeecord-chat/1.16-R0.4/bungeecord-chat-1.16-R0.4.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/md-5/bungeecord-chat/1.16-R0.4/bungeecord-chat-1.16-R0.4.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/md-5/bungeecord-parent/1.16-R0.4/bungeecord-parent-1.16-R0.4.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/md-5/bungeecord-parent/1.16-R0.4/bungeecord-parent-1.16-R0.4.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/yaml/snakeyaml/1.27/snakeyaml-1.27.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/yaml/snakeyaml/1.27/snakeyaml-1.27.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm/9.0/asm-9.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm/9.0/asm-9.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/ow2/1.5/ow2-1.5.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/ow2/1.5/ow2-1.5.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.pom
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.pom (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.pom
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.pom
+[INFO] Downloading from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.pom (4.2 kB at 11 kB/s)
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from jitpack.io: https://jitpack.io/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloading from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/maven-metadata.xml
+[INFO] Downloaded from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/maven-metadata.xml (1.0 kB at 19 kB/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/MythicMobs-4.11.0-20210313.141005-102.pom
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/MythicMobs-4.11.0-20210313.141005-102.pom
+[INFO] Downloading from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/MythicMobs-4.11.0-20210313.141005-102.pom
+[INFO] Downloaded from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/MythicMobs-4.11.0-20210313.141005-102.pom (19 kB at 941 kB/s)
+[WARNING] The POM for io.lumine.xikage:MythicMobs:jar:4.11.0-20210313.141005-102 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/paper-api-1.16.5-R0.1-20210412.180046-169.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-api/4.7.0/adventure-api-4.7.0.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-key/4.7.0/adventure-key-4.7.0.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-api/4.7.0/adventure-api-4.7.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/checkerframework/checker-qual/3.11.0/checker-qual-3.11.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/checkerframework/checker-qual/3.11.0/checker-qual-3.11.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-api/1.1.0/examination-api-1.1.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.7.0/adventure-text-serializer-gson-4.7.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/examination-string/1.1.0/examination-string-1.1.0.jar (0 B at 0 B/s)
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-key/4.7.0/adventure-key-4.7.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.7.0/adventure-text-serializer-legacy-4.7.0.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-plain/4.7.0/adventure-text-serializer-plain-4.7.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-gson/4.7.0/adventure-text-serializer-gson-4.7.0.jar (0 B at 0 B/s)
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-legacy/4.7.0/adventure-text-serializer-legacy-4.7.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/kyori/adventure-text-serializer-plain/4.7.0/adventure-text-serializer-plain-4.7.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/junit/junit/4.10/junit-4.10.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/commons-lang/commons-lang/2.6/commons-lang-2.6.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/guava/guava/21.0/guava-21.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/net/md-5/bungeecord-chat/1.16-R0.4/bungeecord-chat-1.16-R0.4.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/junit/junit/4.10/junit-4.10.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/net/md-5/bungeecord-chat/1.16-R0.4/bungeecord-chat-1.16-R0.4.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm/9.0/asm-9.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-commons/9.0/asm-commons-9.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-tree/9.0/asm-tree-9.0.jar (0 B at 0 B/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.jar
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.jar (0 B at 0 B/s)
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/org/ow2/asm/asm/9.0/asm-9.0.jar (0 B at 0 B/s)
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/destroystokyo/paper/paper-api/1.16.5-R0.1-SNAPSHOT/paper-api-1.16.5-R0.1-20210412.180046-169.jar (0 B at 0 B/s)
+[INFO] Downloaded from papermc-repo: https://papermc.io/repo/repository/maven-public/com/google/guava/guava/21.0/guava-21.0.jar (0 B at 0 B/s)
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.jar
+[INFO] Downloading from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.jar
+[INFO] Downloading from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/MythicMobs-4.11.0-20210313.141005-102.jar
+[INFO] Downloaded from lumine-repo: https://mvn.lumine.io/repository/maven-snapshots/io/lumine/xikage/MythicMobs/4.11.0-SNAPSHOT/MythicMobs-4.11.0-20210313.141005-102.jar (11 MB at 22 MB/s)
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/TreasureIslandMC/XenTradingCards/5.1.3-D1/XenTradingCards-5.1.3-D1.jar (484 kB at 1.6 MB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ TCMythicMobs ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ TCMythicMobs ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ TCMythicMobs ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /home/runner/work/builds/builds/TreasureIslandMC/TCMythicMobs/main/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ TCMythicMobs ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/TreasureIslandMC/TCMythicMobs/main/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ TCMythicMobs ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ TCMythicMobs ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ TCMythicMobs ---
+[INFO] Building jar: /home/runner/work/builds/builds/TreasureIslandMC/TCMythicMobs/main/files/target/TCMythicMobs-1.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ TCMythicMobs ---
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/TreasureIslandMC/TCMythicMobs/main/files/target/TCMythicMobs-1.jar with /home/runner/work/builds/builds/TreasureIslandMC/TCMythicMobs/main/files/target/TCMythicMobs-DEV - 1 (git f63b715a)-shaded.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  17.978 s
+[INFO] Finished at: 2021-04-12T18:49:53Z
+[INFO] ------------------------------------------------------------------------
