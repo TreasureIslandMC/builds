@@ -158,8 +158,9 @@ function relocate (job) {
     return Promise.resolve()
   }
 
+  const name = (job.options ? job.options.prefix : 'DEV') + ' - ' + job.id + ' (git ' + job.commit.sha.substr(0, 8) + ')' 
   return fs.rename(
-    path.resolve(__dirname, '../' + job.directory + '/files/target/' + job.repo + '-' + job.id + '.jar'),
+    path.resolve(__dirname, '../' + job.directory + '/files/target/' + job.repo + '-' + name + '.jar'),
     path.resolve(__dirname, '../' + job.directory + '/' + job.repo + '-' + job.id + '.jar')
   )
 }
