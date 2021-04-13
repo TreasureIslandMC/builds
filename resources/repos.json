@@ -95,7 +95,7 @@
             }
         }
     },
-    "TreasureIslandMC/BungeeAnnounce:master": {
+    "TreasureIslandMC/BungeeAnnounce:dev": {
         "sonar": {
             "enabled": false
         },
