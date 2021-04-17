@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const lodash = require('lodash/collection')
 const projects = require('../src/projects.js')
-const builds_config = require("../resources/builds-config.json")
+const builds_config = require('../resources/builds-config.json')
 
 module.exports = cfg => {
   let config = cfg
