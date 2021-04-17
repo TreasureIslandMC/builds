@@ -1,0 +1,70 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< com.github.sarhatabaot:TC-MobArena >-----------------
+[INFO] Building TC MobArena DEV - 1 (git c74edf27)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.pom
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.pom (4.4 kB at 17 kB/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/groups/public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloading from vault-repo: http://nexus.hc.to/content/repositories/pub_releases/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloading from bstats-repo: http://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom
+[INFO] Downloaded from bstats-repo: http://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.pom (953 B at 309 B/s)
+[INFO] epo/repository/maven-public/org/bstats/bstats/1.5/bstats-Downloading from papermc-repo: https://papermc.io/r1.5.pom
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/org/bstats/bstats/1.5/bstats-1.5.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/bstats/bstats/1.5/bstats-1.5.pom
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/bstats/bstats/1.5/bstats-1.5.pom
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/groups/public/org/bstats/bstats/1.5/bstats-1.5.pom
+[INFO] Downloading from vault-repo: http://nexus.hc.to/content/repositories/pub_releases/org/bstats/bstats/1.5/bstats-1.5.pom
+[INFO] Downloading from bstats-repo: http://repo.codemc.org/repository/maven-public/org/bstats/bstats/1.5/bstats-1.5.pom
+[INFO] Downloaded from bstats-repo: http://repo.codemc.org/repository/maven-public/org/bstats/bstats/1.5/bstats-1.5.pom (7.3 kB at 2.9 kB/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.jar
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.jar
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/garbagemule/MobArena/0.104.2/MobArena-0.104.2.jar (500 kB at 2.0 MB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloading from spigot-repo: https://hub.spigotmc.org/nexus/content/groups/public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloading from vault-repo: http://nexus.hc.to/content/repositories/pub_releases/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloading from bstats-repo: http://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar
+[INFO] Downloaded from bstats-repo: http://repo.codemc.org/repository/maven-public/org/bstats/bstats-bukkit/1.5/bstats-bukkit-1.5.jar (20 kB at 7.0 kB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ TC-MobArena ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ TC-MobArena ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ TC-MobArena ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /home/runner/work/builds/builds/TreasureIslandMC/TCMobArena/main/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ TC-MobArena ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/TreasureIslandMC/TCMobArena/main/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ TC-MobArena ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ TC-MobArena ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ TC-MobArena ---
+[INFO] Building jar: /home/runner/work/builds/builds/TreasureIslandMC/TCMobArena/main/files/target/TCMobArena-1.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ TC-MobArena ---
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/TreasureIslandMC/TCMobArena/main/files/target/TCMobArena-1.jar with /home/runner/work/builds/builds/TreasureIslandMC/TCMobArena/main/files/target/TC-MobArena-DEV - 1 (git c74edf27)-shaded.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  18.425 s
+[INFO] Finished at: 2021-04-12T18:50:15Z
+[INFO] ------------------------------------------------------------------------

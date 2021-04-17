@@ -1,0 +1,46 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.github.sarhatabaot:TCTowny >-------------------
+[INFO] Building TCTowny DEV - 1 (git 78c712e8)
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.pom
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.pom
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.pom
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.pom (8.4 kB at 6.4 kB/s)
+[INFO] Downloading from papermc-repo: https://papermc.io/repo/repository/maven-public/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.jar
+[INFO] Downloading from sonatype: https://oss.sonatype.org/content/groups/public/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.jar
+[INFO] Downloading from jitpack.io: https://jitpack.io/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.jar
+[INFO] Downloaded from jitpack.io: https://jitpack.io/com/github/TownyAdvanced/Towny/0.96.2.8/Towny-0.96.2.8.jar (2.2 MB at 661 kB/s)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ TCTowny ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ TCTowny ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ TCTowny ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /home/runner/work/builds/builds/TreasureIslandMC/TCTowny/main/files/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ TCTowny ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/runner/work/builds/builds/TreasureIslandMC/TCTowny/main/files/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ TCTowny ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ TCTowny ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ TCTowny ---
+[INFO] Building jar: /home/runner/work/builds/builds/TreasureIslandMC/TCTowny/main/files/target/TCTowny-1.jar
+[INFO] 
+[INFO] --- maven-shade-plugin:3.2.4:shade (default) @ TCTowny ---
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/runner/work/builds/builds/TreasureIslandMC/TCTowny/main/files/target/TCTowny-1.jar with /home/runner/work/builds/builds/TreasureIslandMC/TCTowny/main/files/target/TCTowny-DEV - 1 (git 78c712e8)-shaded.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  10.662 s
+[INFO] Finished at: 2021-04-12T18:50:30Z
+[INFO] ------------------------------------------------------------------------
